@@ -32,3 +32,21 @@ This repository contains my **Computer Science Practical Programs** for **Class 
    ```bash
    git clone https://github.com/Ashudani/CS-Practicals.git
    cd CS-Practicals
+
+📚 Additional Information
+These programs are written in C++ and compiled using g++.
+
+Each file contains comments explaining the logic.
+
+Suggestions and improvements are welcome! 😊
+
+🤝 Contributing
+If you find any errors or have suggestions, feel free to open an Issue or submit a Pull Request.
+
+📜 License
+This project is open-source under the MIT License.
+
+🏆 Connect with Me
+📧 Email: ashudani1122@gmail.com
+🔗 GitHub: Ashudani
+📌 Follow for more projects! 🚀
